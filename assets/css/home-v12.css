@@ -41,7 +41,7 @@
 .v18-proof-grid img{height:250px}
 .v18-instagram-link::before{content:"◎";margin-right:6px;color:#d7a942}
 @media(max-width:980px){.v18-proof-grid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:720px){.v18-proof-grid{grid-template-columns:1fr}.v18-proof-grid img{height:260px}}
+@media(max-width:720px){.v18-proof-grid{grid-template-columns:1fr}.v18-proof-grid img{height:auto}}
 /* Show full Taj Mahal and airport photos */
 .v18-proof-grid figure:nth-child(1) img,
 .v18-proof-grid figure:nth-child(2) img {
