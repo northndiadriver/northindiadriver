@@ -49,3 +49,9 @@
     width: 100%;
     object-fit: contain;
 }
+/* Show full third traveller photo */
+.v18-proof-grid figure:nth-child(3) img {
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+}
